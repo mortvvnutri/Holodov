@@ -1,0 +1,11 @@
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.csproj.AssemblyReference.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.Form1.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.Properties.Resources.resources
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.csproj.GenerateResource.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\bin\Debug\LB_2.exe.config
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\bin\Debug\LB_2.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\bin\Debug\LB_2.pdb
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.exe
+C:\Users\Любовь\Desktop\Предыдущая винда\repos\Holodov\LB_2\obj\Debug\LB_2.pdb
